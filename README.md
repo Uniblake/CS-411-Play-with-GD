@@ -1,4 +1,4 @@
-这是一个使用 Jupyter-Notebook 可视化深度学习中各种概念的项目。
+This is the tutorial for CS-411 Gradient Descent Course
 
-点击Binder按钮可在线运行
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Uniblake/CS-411-Play-with-GD/main)
+Please click the following link to start an interactive notebook for practice
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Uniblake/CS-411-Play-with-GD/d7c1eb1)
